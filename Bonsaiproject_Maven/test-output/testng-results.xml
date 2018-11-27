@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43683" started-at="2017-12-14T09:12:50Z" finished-at="2017-12-14T09:13:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43683" started-at="2017-12-14T09:12:50Z" finished-at="2017-12-14T09:13:34Z">
+      <class name="com.bonsai.app.Test_GiftFinder">
+        <test-method status="PASS" signature="setup2()[pri:0, instance:com.bonsai.app.Test_GiftFinder@56f4468b]" name="setup2" is-config="true" duration-ms="26248" started-at="2017-12-14T14:42:50Z" finished-at="2017-12-14T14:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.bonsai.app.Test_GiftFinder@56f4468b]" name="login" duration-ms="12630" started-at="2017-12-14T14:43:16Z" finished-at="2017-12-14T14:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="giftfindinder()[pri:0, instance:com.bonsai.app.Test_GiftFinder@56f4468b]" name="giftfindinder" duration-ms="4790" started-at="2017-12-14T14:43:29Z" finished-at="2017-12-14T14:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftfindinder -->
+      </class> <!-- com.bonsai.app.Test_GiftFinder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
